@@ -56,7 +56,7 @@ cd Fetch_Assesment
 ### 3️⃣ Configure Properties
 Update the `configuration.properties` file:
 ```properties
-library.baseUri=https://api.openweathermap.org
+fetch.baseURI=https://api.openweathermap.org
 apiKey=your_api_key_here
 browser=chrome
 ```
