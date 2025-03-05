@@ -61,6 +61,13 @@ apiKey=your_api_key_here
 browser=chrome
 ```
 ---
+## Command Line Utility
+To fetch geolocation data using the CLI tool:
+
+1. **Compile the Project**
+   ```sh
+   mvn clean compile
+
 
 ## Running Tests
 ### 1️⃣ Run All Tests
