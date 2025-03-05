@@ -17,8 +17,8 @@ Fetch_Assesment/
 │   │   ├── java
 │   │   │   ├── org.fetch
 │   │   │   │   ├── pages               # Page Object Models (UI testing)
-│   │   │   │   │   ├── BasePage.java
-│   │   │   │   │   ├── LoginPage.java
+│   │   │   │   │   
+│   │   │   │   │   
 │   │   │   │   ├── runners             # Test runners
 │   │   │   │   │   ├── TestRunner.java
 │   │   │   │   │   ├── FailedTestRunner.java
@@ -29,6 +29,8 @@ Fetch_Assesment/
 │   │   │   │   │   ├── APIClient.java
 │   │   │   │   │   ├── ConfigurationReader.java
 │   │   │   │   │   ├── Driver.java
+│   │   │   │   │   ├── Geolocator.java
+
 │   ├── resources
 │   │   ├── features                   # Feature files for Cucumber
 │   │   │   ├── apiTests.feature
