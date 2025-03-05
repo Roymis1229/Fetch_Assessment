@@ -52,7 +52,7 @@ Fetch_Assesment/
 ### 2️⃣ Clone the Repository
 ```sh
 git clone https://github.com/your-repo/Fetch_Assesment.git
-cd Fetch_Assesment
+
 ```
 
 ### 3️⃣ Configure Properties
